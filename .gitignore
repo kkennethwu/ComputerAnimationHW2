@@ -1,0 +1,13 @@
+*sln
+.vs/
+assets/
+bin/
+cmake/
+extern/
+ForwardKinematics/
+include/
+utility/
+vendor/
+*.clang-format
+*.txt
+*.ini
